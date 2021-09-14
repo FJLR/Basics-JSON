@@ -1,6 +1,10 @@
 
 //console.log("Hello Francisco");
 
+//Fetch API with web dev simplified
+
+
+
 //console.log(fetch("https://reqres.in/api/users"));
 
 
